@@ -20,7 +20,7 @@ pip install python-decouple notify
 
 ### Configurando o projeto
 
-Definir no arquivo [.env](.env) na raiz do projeto:
+Renomear o arquivo [.env_modelo](.env_modelo) na raiz do projeto para ```.env``` e definir conforme segue:
 
 - ```min``` e ```max``` definem o nível mínimo e máximo da bateria do notebook.
 

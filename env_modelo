@@ -1,0 +1,4 @@
+min=20
+max=80
+url_power_on=<url>
+url_power_off=<url>
